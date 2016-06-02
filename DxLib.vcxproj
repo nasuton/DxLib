@@ -20,10 +20,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\DxLib_Sub.cpp" />
+    <ClCompile Include="src\GameMain_Task.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\MainSystem.cpp" />
+    <ClCompile Include="src\Task.cpp" />
+    <ClCompile Include="src\Title_Task.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\DxLib_Sub.h" />
+    <ClInclude Include="src\GameMain_Task.h" />
+    <ClInclude Include="src\MainSystem.h" />
+    <ClInclude Include="src\Task.h" />
+    <ClInclude Include="src\Title_Task.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{47B0D888-8EB3-4195-9D74-ED360B21A1FD}</ProjectGuid>
